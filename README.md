@@ -13,7 +13,7 @@ Actual data source: [ESPNcricinfo](https://stats.espncricinfo.com/ci/content/rec
 > <br>Splitting columns.<br>
 
                             
-> <br>Finding answers for -<br>
+> <br>**Finding answers for** -<br>
 > <br>How many players played for ICC?<br>
 > <br>How many different countries are present in this dataset?<br>
 > <br>Which player(s) had played for the longest period of time?<br>
